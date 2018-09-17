@@ -9,3 +9,5 @@ node comments
 ```
 即可发表评论  
   
+## 参考：
+[慕课网Node.js教程request实例](https://www.imooc.com/video/8837)
